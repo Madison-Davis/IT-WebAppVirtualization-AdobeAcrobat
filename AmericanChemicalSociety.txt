@@ -1,0 +1,10 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2638
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red44\green54\blue72;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c22745\c27451\c35294;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 In the presence of a flame or a spark, the oxidizing agent and the fuel are involved in chemical reactions that create intense heat and gas. Igniting the fuse with a flame or a spark triggers the explosion of the bursting charge and of the entire aerial shell. How fireworks explode The explosion of a firework happens in two steps: The aerial shell is shot into the air, and then it explodes in the air, many feet above the ground. To propel the aerial shell into the air, the shell is placed inside a tube, called a mortar, which is often partially buried in sand or dirt. This, in turn, ignites the black powder and the stars, which rapidly produce lots of gas and heat, causing the shell to burst open, propelling the stars in every direction. The loud boom that accompanies fireworks is actually a sonic boom produced by the expansion of the gases at a rate faster than the speed of sound! The fast-acting fuse ignites first, propelling the shell into the air, and then the timedelay fuse ignites to cause the aerial shell to explode when it is high in the sky. When the temperature of a firework is controlled, the glow of its metallic substances can be manipulated to be a desired color at the proper time. When fireworks explode in the sky, the gunpowder reactions create a lot of heat, causing the metallic substances present in the stars to absorb energy from the heat and emit light. So, the colors are specific to the metals present in the fireworks.}
